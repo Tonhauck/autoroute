@@ -1,0 +1,1054 @@
+[
+	[
+		{
+			"originName": "Saint-Priest",
+			"originLat": 45.7017753082431,
+			"originLon": 4.9489228896489,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 8e Arrondissement",
+			"destinationLat": 45.7339241974647,
+			"destinationLon": 4.86928073743304,
+			"count": 228,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 7
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 118
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 76
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 13
+				},
+				{
+					"name": "> 20km",
+					"value": 14
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 37
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 184
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 7
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Saint-Priest",
+			"originLat": 45.7017753082431,
+			"originLon": 4.9489228896489,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 3e Arrondissement",
+			"destinationLat": 45.7533324518969,
+			"destinationLon": 4.86938666205072,
+			"count": 224,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 45
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 129
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 38
+				},
+				{
+					"name": "> 20km",
+					"value": 12
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 7
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 166
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 51
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Bron",
+			"originLat": 45.7346725078783,
+			"originLon": 4.91194010503519,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 8e Arrondissement",
+			"destinationLat": 45.7339241974647,
+			"destinationLon": 4.86928073743304,
+			"count": 161,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 2
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 3
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 5
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 3
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 13
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 41
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 74
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 8
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 12
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 2
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 3
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 10
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 7
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 19
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 24
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 80
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 16
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 0
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Villeurbanne",
+			"originLat": 45.7710534332504,
+			"originLon": 4.88899121468023,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 8e Arrondissement",
+			"destinationLat": 45.7339241974647,
+			"destinationLon": 4.86928073743304,
+			"count": 109,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 3
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 76
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 24
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 6
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 1
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 4
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 80
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 24
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 0
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Genas",
+			"originLat": 45.7299904750262,
+			"originLon": 5.01608883503537,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 8e Arrondissement",
+			"destinationLat": 45.7339241974647,
+			"destinationLon": 4.86928073743304,
+			"count": 94,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 0
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 69
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 18
+				},
+				{
+					"name": "> 20km",
+					"value": 7
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 55
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 39
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Bron",
+			"originLat": 45.7346725078783,
+			"originLon": 4.91194010503519,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 3e Arrondissement",
+			"destinationLat": 45.7533324518969,
+			"destinationLon": 4.86938666205072,
+			"count": 93,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 4
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 8
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 63
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 12
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 2
+				},
+				{
+					"name": "> 20km",
+					"value": 4
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 3
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 2
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 1
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 3
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 31
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 53
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 0
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Chassieu",
+			"originLat": 45.7381365556818,
+			"originLon": 4.96226256315257,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 3e Arrondissement",
+			"destinationLat": 45.7533324518969,
+			"destinationLon": 4.86938666205072,
+			"count": 92,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 11
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 63
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 9
+				},
+				{
+					"name": "> 20km",
+					"value": 9
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 90
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 2
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Chassieu",
+			"originLat": 45.7381365556818,
+			"originLon": 4.96226256315257,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 8e Arrondissement",
+			"destinationLat": 45.7339241974647,
+			"destinationLon": 4.86928073743304,
+			"count": 80,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 35
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 44
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 1
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 2
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 78
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 0
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Bron",
+			"originLat": 45.7346725078783,
+			"originLon": 4.91194010503519,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Bron",
+			"destinationLat": 45.7346725078783,
+			"destinationLon": 4.91194010503519,
+			"count": 74,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 1
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 4
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 2
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 1
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 5
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 25
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 14
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 7
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 1
+				},
+				{
+					"name": "> 20km",
+					"value": 14
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 25
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 9
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 6
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 11
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 10
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 7
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 6
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 0
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 0
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		},
+		{
+			"originName": "Saint-Priest",
+			"originLat": 45.7017753082431,
+			"originLon": 4.9489228896489,
+			"waypointName": "Avenue Jean Mermoz Est->Ouest",
+			"waypointLat": 45.732687,
+			"waypointLon": 4.881232,
+			"destinationName": "Lyon 7e Arrondissement",
+			"destinationLat": 45.7334291759191,
+			"destinationLon": 4.83736856178182,
+			"count": 74,
+			"total": 5317,
+			"binsRealDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 14
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 41
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 11
+				},
+				{
+					"name": "> 20km",
+					"value": 8
+				}
+			],
+			"binsDirectDistance": [
+				{
+					"name": "< 500m",
+					"value": 0
+				},
+				{
+					"name": "500m -> 1km",
+					"value": 0
+				},
+				{
+					"name": "1km -> 1.5km",
+					"value": 0
+				},
+				{
+					"name": "1.5km -> 2km",
+					"value": 0
+				},
+				{
+					"name": "2km -> 2.5km",
+					"value": 0
+				},
+				{
+					"name": "2.5km -> 3km",
+					"value": 0
+				},
+				{
+					"name": "3km -> 5km",
+					"value": 0
+				},
+				{
+					"name": "5km -> 10km",
+					"value": 41
+				},
+				{
+					"name": "10km -> 15km",
+					"value": 33
+				},
+				{
+					"name": "15km -> 20km",
+					"value": 0
+				},
+				{
+					"name": "> 20km",
+					"value": 0
+				}
+			]
+		}
+	]
+]
